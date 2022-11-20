@@ -1,10 +1,10 @@
 { 
-  "ChatOwner": "6281348106274@s.whatsapp.net",
-  "ownerNumber": "6281348106274@s.whatsapp.net",
-  "botName": "DaniBot",
-  "ownerName": "Dani Maker",
+  "ChatOwner": "6285895921413@s.whatsapp.net",
+  "ownerNumber": "6285895921413@s.whatsapp.net",
+  "botName": "NinoBot",
+  "ownerName": "Nino",
   "sessionName": "session",
-  "footer": "© DaniBot 2022",
+  "footer": "© NinoBot 2022",
   "api_lolkey": "SadTeams",
   "group":{
   "judul": "Forum Bot WhatsApp",
