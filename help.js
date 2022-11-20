@@ -742,7 +742,7 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Dani
+ • *Nama:* Nino
  • *Umur:* 16 tahun
  • *Hoby:* Turu/tiktok
  • *Askot:* Palembang
